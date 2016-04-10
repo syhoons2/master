@@ -1,5 +1,5 @@
 
-public class User {
+public class User { //Insung~
 	
 	private String _name;
 	private int _numberOfLines;
